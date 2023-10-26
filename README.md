@@ -21,7 +21,7 @@ npm install -g typescript
 1. **Clone the Repository:**
 ```
 git clone https://github.com/thisisamanmalhotra/GO1-TypeScript.git
-cd <repository-folder>
+cd GO1-TypeScript
 ```
 2. **Install Dependencies:**
 ```
